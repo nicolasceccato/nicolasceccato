@@ -1,3 +1,12 @@
+### Hi there, i'm Nicolas Ceccato!
+
+:man_technologist: I'm an Industrial Engineer (UDESC) and i'm currently studying Analysis and Systems Development also at UDESC. </br> 
+:man_scientist: I'm an analytical, dedicated and disciplined person, passionate about problem solving. I love challenges and being able to learn to solve them.</br>
+
+:hourglass_flowing_sand: This profile was designed to show my evolution process in coding development.</br> 
+:computer: I'm currently working with C, JAVA, Linux, Git, HTML5 and CSS3.</br>
+:call_me_hand: If you want to get in touch, you will find me in the links below.
+
 <div>
   <a href="https://github.com/nicolasceccato">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasceccato&layout=compact&langs_count=7&theme=dracula"/>

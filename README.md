@@ -1,6 +1,6 @@
 ### Hi there, i'm Nicolas Ceccato!
 
-:man_technologist: I'm an Industrial Engineer (UDESC) and i'm currently studying Analysis and Systems Development also at UDESC. </br> 
+:man_technologist: I'm an Industrial Engineer (UDESC) and I'm currently studying Analysis and Systems Development also at UDESC. I'm working as a junior developer at Neomind.</br> 
 :man_scientist: I'm an analytical, dedicated and disciplined person, passionate about problem solving. I love challenges and being able to learn to solve them.</br>
 
 :hourglass_flowing_sand: This profile was designed to show my evolution process in coding development.</br> 
